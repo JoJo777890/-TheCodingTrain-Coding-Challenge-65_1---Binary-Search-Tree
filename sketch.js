@@ -9,6 +9,14 @@ function setup() {
     }
     console.log(tree);
     tree.traverse();
+
+    let result = tree.search(10);
+    if (result == null) {
+        console.log("Not Found");
+    }
+    else {
+        console.log(result);
+    }
 }
 
 

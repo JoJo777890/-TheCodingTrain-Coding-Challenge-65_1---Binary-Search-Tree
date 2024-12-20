@@ -6,6 +6,20 @@ function Node(value) {
     this.right = null;
 }
 
+Node.prototype.search = function (value) {
+    if (value === this.value) {
+        return this;
+    }
+    else if (value < this.value && this.left != null) {
+        return this.left.search(value);
+    }
+    else if (value > this.value && this.right != null) {
+        return this.right.search(value);
+    }
+
+    return null;
+}
+
 Node.prototype.visit = function() {
     if (this.left != null) {
         this.left.visit();

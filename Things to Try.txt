@@ -1,0 +1,18 @@
+
+(YouTube Video by "The Coding Train", Daniel Shiffman)
+(YouTube Video Name: "Coding Challenge #65.1: Binary Search Tree")
+
+(Optional)
+Name: Describtion
+
+1. Add some Physics to it?
+
+2. Visualizing it?
+
+3. Is there something beautiful in the way that the binary tree you Traverse the binary tree recursively?
+
+4. Could you do some kind of nice animation?
+
+P.S.
+In the next video I'm going to at least try to draw some of the tree so we can see um how it looks if we draw the sort of basic elements:
+(YouTube Video Name: "Coding Challenge #65.2: Visualizing a Binary Tree")
