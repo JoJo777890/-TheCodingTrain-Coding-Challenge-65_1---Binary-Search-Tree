@@ -1,4 +1,5 @@
 
+--------------------------------------- Part 1 -------------------------------------
 (YouTube Video by "The Coding Train", Daniel Shiffman)
 (YouTube Video Name: "Coding Challenge #65.1: Binary Search Tree")
 
@@ -15,4 +16,87 @@ Name: Describtion
 
 P.S.
 In the next video I'm going to at least try to draw some of the tree so we can see um how it looks if we draw the sort of basic elements:
+
+--------------------------------------- Part 2 -------------------------------------
+(YouTube Video by "The Coding Train", Daniel Shiffman)
 (YouTube Video Name: "Coding Challenge #65.2: Visualizing a Binary Tree")
+
+(Optional)
+Name: Describtion
+
+versions of it um how can you cre do a
+7:01
+more creative or effective way of
+Conclusion and suggested visualization variations
+7:03
+visualizing this tree with proper
+7:04
+spacing what might be some algorithm to
+7:06
+figure out the proper spacing you know
+7:08
+you could use physics even like what if
+7:09
+you use spring forces between all these
+7:11
+nodes um and some kind of repulsion
+7:13
+forces to to like have it figure itself
+7:17
+out that's known as a force directed
+7:18
+graph by the way I also think it'd be
+7:20
+really wonderful to see an animation so
+7:23
+what if you created here's something you
+7:24
+could do you create a sketch where
+7:26
+there's nothing and you have every time
+7:28
+you press a button it adds add something
+7:29
+to the tree and you see it animate to
+7:31
+its correct spot and then you could hit
+7:33
+a button called Traverse and it animates
+7:35
+through the tree in the recursive
+7:36
+fashion so what type of animated ways
+7:39
+could you explain um trees so I would
+7:42
+love for anybody to do that um share
+7:44
+those projects with me if you want to um
+7:46
+this is actually this is also a video
+7:48
+that's with a a course that I'm anyway
+7:51
+just look in the video's description
+7:53
+there'll be links to all the places to
+7:54
+look to contribute your uh stuff okay so
+7:58
+um and ala is making a suggestion get n
+8:01
+items per level and separate them evenly
+8:03
+yeah so one thing you could look at is
+8:05
+can you look through the tree to figure
+8:06
+out how many items there are per level
+8:09
+and that's how you figure out the
+8:10
+spacing so that's a great clue there
+8:11
+thank you ala from the chat all right I
+8:13
+will see all of you another time
